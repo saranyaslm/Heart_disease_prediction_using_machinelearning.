@@ -23,7 +23,7 @@ pip install streamlit
     
 ## Roadmap
 
-- Data pre processing using dataset
+- Data pre processing 
 
 - train and test split using logistic regression model
 
@@ -36,4 +36,6 @@ finally get the output defective heart or healthy heart
 ```bash
 streamlit run main.py
 ```
+![Screenshot (33)](https://github.com/saranyaslm/Heart_disease_prediction_using_machinelearning./assets/159869274/6a00c92d-b480-4621-b5a3-5d236c92bcf5)
+
 

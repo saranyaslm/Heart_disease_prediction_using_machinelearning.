@@ -12,7 +12,7 @@ This project focuses on predicting heart disease using machine learning, specifi
 
 ## Installation
 
-Install my-project with npm
+Install my-project
 
 ```bash
 pip install numpy

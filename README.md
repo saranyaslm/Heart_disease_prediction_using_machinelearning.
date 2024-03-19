@@ -42,4 +42,6 @@ streamlit run main.py
 ![Screenshot (34)](https://github.com/saranyaslm/Heart_disease_prediction_using_machinelearning./assets/159869274/d15478fd-c619-4e78-8a11-8b2b7ad29384)
 
 
+![Screenshot (35)](https://github.com/saranyaslm/Heart_disease_prediction_using_machinelearning./assets/159869274/8e5f1423-713c-435a-ae52-477bacc66044)
+
 
